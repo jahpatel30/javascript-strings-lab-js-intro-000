@@ -1,3 +1,3 @@
-function sayHello(){
-  console.log('Hello!,Clara')
+function sayHelloTo(firstName){
+  console.log('Hello, ${firstName}!')
 }
